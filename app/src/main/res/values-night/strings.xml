@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mensaje_txt">Welcome</string>
+    <string name="imagen_description_txt">documents image</string>
+    <string name="imagen_yinyang_txt">Trabajos_de_la_uni_image</string>
+    <string name="image_description_txt">Trabajos de la uni image</string>
+    <string name="image_yinyang_txt">C:\\Users\\HP\\Documents\\Trabajos de la uni image</string>
+    <string name="image_descripcion_txt">C:\\Users\\HP\\Documents\\Trabajos de la uni</string>
+    <string name="imagen_descripcion_txt">les image</string>
+    <string name="imagen_descrip_txt">yinyang imagen</string>
+</resources>

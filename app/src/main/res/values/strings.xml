@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">MyPrimeraApp</string>
+    <string name="app_name" translatable="false">MyPrimeraApp</string>
+    <string name="mensaje_txt">Welcome</string>
+    <string name="imagen_descripcion_txt">les image</string>
+    <string name="image_txt">les image</string>
+    <string name="imagen_descrip_txt">yinyang imagen</string>
+
+
 </resources>
